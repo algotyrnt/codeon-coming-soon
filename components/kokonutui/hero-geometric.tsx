@@ -185,7 +185,7 @@ export default function HeroGeometric({
           <motion.div custom={3} variants={fadeUpVariants} initial="hidden" animate="visible">
             <div className="flex justify-center gap-4 mt-20">
               <a
-                href="mailto:info@codeon.com"
+                href="mailto:helo@codeon.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-4 py-2 rounded-full bg-white/[0.1] text-white/60 hover:text-white/80 transition-colors"
